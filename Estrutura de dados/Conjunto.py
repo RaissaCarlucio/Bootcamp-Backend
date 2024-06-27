@@ -245,4 +245,8 @@ x = 1 in numeros # True 1 está dentro do set numeros
 y = 10 in numeros # False 10 não está dentro do set numeros
 
 print(x) # True
+<<<<<<< HEAD
 print(y) # False
+=======
+print(y) # False
+>>>>>>> 20d5ce7d680c9d4fdfae5edb9b9e30348e5f43b0

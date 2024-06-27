@@ -141,3 +141,7 @@ def salario_bonus(bonus):
 
 
 salario_bonus(500)  # 2500
+<<<<<<< HEAD
+=======
+
+>>>>>>> 20d5ce7d680c9d4fdfae5edb9b9e30348e5f43b0
